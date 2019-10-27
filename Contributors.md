@@ -7,6 +7,7 @@
 - [tannedthighs]
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Mudasir Issah] (https://github.com/danladi123)
+- [Charlie Dussault] (https://github.com/charlie-ld)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Danial Beg] (https://github.com/DanialBeg)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
